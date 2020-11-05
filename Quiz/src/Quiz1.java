@@ -16,6 +16,7 @@ public class Quiz1 {
 		
 		System.out.println("Ideal weight for female is "+ (40+(5*inches_new))+ " kg");
 		System.out.println("Ideal weight for male is "+ (50+(6*inches_new))+ " kg");
-		 
-		}
+		
+	}
+	
 }
